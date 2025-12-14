@@ -1,3 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Generated outputs
+audit_overlays/
+fetched_images/
+output_json/
+
+# Model weights (IMPORTANT)
+model_train/*.pt
+model_train/*.onnx
+
+# Mac
+.DS_Store
 # Mac system files
 .DS_Store
 
