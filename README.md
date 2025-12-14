@@ -106,7 +106,16 @@ Precision: High
 
 Recall: Balanced (minimized false positives)
 
-F1-score: optimised for challenge constraints
+F1-score: optimised for challenge constraint
+
+Due to GitHub file size limits, the trained YOLO weights are hosted externally.
+
+Download:
+https://drive.google.com/xxxxxx
+
+Place the file here before running:
+model_train/best.pt
+
  5. Running the Pipeline
 Prerequisites:
 pip install -r requirements.txt
