@@ -18,7 +18,12 @@ from ultralytics import YOLO
 
 MODEL_PATH = "model_train/best.pt"
 
-GOOGLE_API_KEY = "AIzaSyB0r9AMZFGc9bHQ1tP0SdgStcAGzzvpQeI"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+if not GOOGLE_API_KEY:
+    raise RuntimeError(
+        "GOOGLE_API_KEY not found. Please set it as an environment variable."
+    )
+
 
 # --- Google Static Maps (BEST QUALITY WITHOUT PREMIUM) ---
 ZOOM = 20                 # 21 causes blur in many Indian regions
