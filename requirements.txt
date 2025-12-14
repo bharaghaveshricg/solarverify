@@ -1,0 +1,7 @@
+ultralytics==8.1.34
+opencv-python
+pillow
+requests
+numpy
+torch
+torchvision

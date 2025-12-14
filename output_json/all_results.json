@@ -1,0 +1,160 @@
+[
+    {
+        "sample_id": "S01",
+        "lat": 21.110114,
+        "lon": 72.864346,
+        "has_solar": true,
+        "confidence": 0.744,
+        "panel_count_est": 3,
+        "pv_area_sqm_est": 166.82,
+        "capacity_kw_est": 33.36,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S01.png"
+    },
+    {
+        "sample_id": "S02",
+        "lat": 21.191176,
+        "lon": 72.7929,
+        "has_solar": true,
+        "confidence": 0.829,
+        "panel_count_est": 12,
+        "pv_area_sqm_est": 611.94,
+        "capacity_kw_est": 122.39,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S02.png"
+    },
+    {
+        "sample_id": "S03",
+        "lat": 21.21695,
+        "lon": 72.903089,
+        "has_solar": true,
+        "confidence": 0.764,
+        "panel_count_est": 8,
+        "pv_area_sqm_est": 282.6,
+        "capacity_kw_est": 56.52,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S03.png"
+    },
+    {
+        "sample_id": "S04",
+        "lat": 22.987738,
+        "lon": 72.621285,
+        "has_solar": true,
+        "confidence": 0.801,
+        "panel_count_est": 2,
+        "pv_area_sqm_est": 76.39,
+        "capacity_kw_est": 15.28,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S04.png"
+    },
+    {
+        "sample_id": "S05",
+        "lat": 23.053969,
+        "lon": 72.559827,
+        "has_solar": true,
+        "confidence": 0.816,
+        "panel_count_est": 7,
+        "pv_area_sqm_est": 289.72,
+        "capacity_kw_est": 57.94,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S05.png"
+    },
+    {
+        "sample_id": "S06",
+        "lat": 22.299175,
+        "lon": 70.759588,
+        "has_solar": false,
+        "confidence": 0,
+        "panel_count_est": 0,
+        "pv_area_sqm_est": 0.0,
+        "capacity_kw_est": 0.0,
+        "qc_status": "not_verifiable",
+        "qc_notes": [
+            "no clear solar evidence"
+        ],
+        "overlay_path": "audit_overlays/S06.png"
+    },
+    {
+        "sample_id": "S07",
+        "lat": 21.217003,
+        "lon": 72.894882,
+        "has_solar": true,
+        "confidence": 0.813,
+        "panel_count_est": 12,
+        "pv_area_sqm_est": 507.41,
+        "capacity_kw_est": 101.48,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S07.png"
+    },
+    {
+        "sample_id": "S08",
+        "lat": 23.066222,
+        "lon": 72.513513,
+        "has_solar": true,
+        "confidence": 0.797,
+        "panel_count_est": 10,
+        "pv_area_sqm_est": 547.71,
+        "capacity_kw_est": 109.54,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S08.png"
+    },
+    {
+        "sample_id": "S09",
+        "lat": 21.742897,
+        "lon": 70.271539,
+        "has_solar": false,
+        "confidence": 0,
+        "panel_count_est": 0,
+        "pv_area_sqm_est": 0.0,
+        "capacity_kw_est": 0.0,
+        "qc_status": "not_verifiable",
+        "qc_notes": [
+            "no clear solar evidence"
+        ],
+        "overlay_path": "audit_overlays/S09.png"
+    },
+    {
+        "sample_id": "S10",
+        "lat": 21.239913,
+        "lon": 72.908015,
+        "has_solar": true,
+        "confidence": 0.78,
+        "panel_count_est": 15,
+        "pv_area_sqm_est": 716.51,
+        "capacity_kw_est": 143.3,
+        "qc_status": "verifiable",
+        "qc_notes": [
+            "distinct module grid",
+            "rectilinear array"
+        ],
+        "overlay_path": "audit_overlays/S10.png"
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "sample_id": 2,
+  "lat": null,
+  "lon": null,
+  "has_solar": true,
+  "confidence": 0.37,
+  "panel_count_Est": 1,
+  "pv_area_sqm_est": 34.78,
+  "capacity_kw_est": 0.35,
+  "qc_status": "VERIFIABLE",
+  "qc_notes": [
+    "clear roof view"
+  ],
+  "bbox_or_mask": [
+    [
+      401,
+      52,
+      570,
+      346
+    ]
+  ],
+  "image_metadata": {
+    "source": "satellite",
+    "capture_date": "N/A"
+  }
+}
