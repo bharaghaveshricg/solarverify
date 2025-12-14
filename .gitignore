@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+
+# Generated outputs
+fetched_images/
+audit_overlays/
+output_json/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
